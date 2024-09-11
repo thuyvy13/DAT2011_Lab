@@ -1,0 +1,1 @@
+print(sanpham[1])
